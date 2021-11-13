@@ -35,12 +35,12 @@ def receive_message():
         response_message = "Hello, " + input_message
         response = {"message": response_message}
         return response, 200
-    
+
     # If anything goes wrong, return an error
     return error_response, 400
 
 
-@app.route('/', methods=['POST', 'GET']) # TODO REMOVE GET
+@app.route('/start', methods=['POST', 'GET'])  # TODO REMOVE GET
 # @app.route('/start', methods=['POST'])
 def upload_file():
     if request.method == 'POST':
@@ -75,7 +75,7 @@ def upload_file():
             }
 
             return ret, 200
-        
+
     # Temporary have an upload page for testing
     return '''
     <!doctype html>
