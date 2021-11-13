@@ -40,7 +40,7 @@ def receive_message():
     return error_response, 400
 
 
-@app.route('/', methods=['POST'])
+@app.route('/', methods=['POST', 'GET']) # TODO REMOVE GET
 # @app.route('/start', methods=['POST'])
 def upload_file():
     if request.method == 'POST':
