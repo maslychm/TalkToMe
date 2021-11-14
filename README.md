@@ -16,7 +16,7 @@ We utilize Python's Flask as our backend to receive user's input text. It passes
 The model that we trained can be found [here](https://drive.google.com/drive/folders/11kEUhx_rDGYdn9bdaiJ_kUfwqi1T9O9_?usp=sharing)
 
 
-### Running Web Application
+## Running Web Application
 1. `cd web_app`
 2. `pip install -r requirements.txt`
 3. `python app.py`
