@@ -1,16 +1,2 @@
-# coronabot-chatterbot
-CoronaBot is a chat bot for answering question regarding Coronavirus
-
-Tutorial - https://studygyaan.com/uncategorised/create-web-based-chatbot-in-python-django-flask
-
-`pip install Flask`
-
-`pip install chatterbot`
-
-`pip install chatterbot-corpus`
-
-or 
-
-`pip install -r requirements.txt`
-
-![Chatbot](https://studygyaan.com/wp-content/uploads/2020/03/Chatbot-in-Python.png?style=centerme)
+# Web Application
+The web app was developed in Flask, a web development framework in python that can easily bridge the gap between our GPT2-model and the front-end which was based on the template in [this project](https://github.com/huzaifsayed/coronabot-chatterbot), developed in HTML, CSS, and JavaScript. 
