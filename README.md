@@ -12,8 +12,13 @@ This application scrapes chat logs between two users from Discord and inputs one
 ## Web Application Used
 We utilize Python's Flask as our backend to receive user's input text. It passes it through the GPT-2 model to retrieve the output and forwards to the front-end UI. The front-end was inspired by this [project](https://github.com/huzaifsayed/coronabot-chatterbot) and we use his front-end, developed with HTML, CSS and JavaScript as our template. 
 
+## Link to Model:
+The model that we trained can be found [here](https://drive.google.com/drive/folders/11kEUhx_rDGYdn9bdaiJ_kUfwqi1T9O9_?usp=sharing)
+
+
 ### Running Web Application
 1. `cd web_app`
 2. `pip install -r requirements.txt`
 3. `python app.py`
 4. Type `localhost:5000` in your favorite browser and you're ready to go! _Express yourself to yourself!_
+
