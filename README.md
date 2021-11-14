@@ -16,4 +16,4 @@ We utilize Python's Flask as our backend to receive user's input text. It passes
 1. `cd web_app`
 2. `pip install -r requirements.txt`
 3. `python app.py`
-4. Type `localhost:5000` in your favorite browser and you're ready to go! You can talk to yourself
+4. Type `localhost:5000` in your favorite browser and you're ready to go! _Express yourself to yourself!_
