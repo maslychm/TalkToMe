@@ -1,4 +1,9 @@
+
 # TalkToMe
+
+![](resources/screenshot.PNG)
+
+
 __Talk to a person based on a Transformer model of them.__
 
 This application scrapes chat logs between two users from Discord and inputs one of the user's data through a GPT-2-medium model to generate a relatively complex language model. The dataset, found under ```training_2_.txt```, contains 300 lines of conversation between Mykola and Steven, two friends from UCF. Because the training data is multilingual, GPT-2 can still adapt to these changes and generate fairly reasonable text. 
