@@ -1,8 +1,9 @@
 
 # TalkToMe
 
-![](resources/screenshot1.png)
-
+<p align="center">
+  <img src="resources/screenshot1.png" alt="Sublime's custom image"/>
+</p>
 
 __Talk to a person based on a Transformer model of them.__
 
