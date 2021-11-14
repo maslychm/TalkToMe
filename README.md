@@ -1,7 +1,7 @@
 
 # TalkToMe
 
-![](resources/screenshot.PNG)
+![](resources/screenshot1.PNG)
 
 
 __Talk to a person based on a Transformer model of them.__
