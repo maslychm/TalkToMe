@@ -19,7 +19,7 @@ google-auth==2.3.3
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 gpt-2-simple==0.8.1
-grpcio==1.41.1
+grpcio==1.53.0
 h5py==3.5.0
 idna==3.3
 importlib-metadata @ file:///D:/bld/importlib-metadata_1636431723681/work
