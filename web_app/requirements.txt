@@ -71,7 +71,7 @@ traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_16352605
 typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1632313171031/work
 urllib3==1.26.7
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
-Werkzeug==2.0.2
+Werkzeug==2.3.8
 wincertstore==0.2
 wrapt==1.13.3
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1633302054558/work
