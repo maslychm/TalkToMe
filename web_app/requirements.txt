@@ -12,7 +12,7 @@ colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480
 debugpy @ file:///D:/bld/debugpy_1636043475787/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1631346842025/work
 entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1605121927639/work/dist/entrypoints-0.3-py2.py3-none-any.whl
-Flask==2.0.2
+Flask==2.2.5
 flatbuffers==2.0
 gast==0.4.0
 google-auth==2.3.3
