@@ -38,7 +38,7 @@ MarkupSafe==2.0.1
 matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1631080358261/work
 nest-asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1617163391303/work
 numpy==1.21.4
-oauthlib==3.1.1
+oauthlib==3.2.2
 opt-einsum==3.3.0
 parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1617148930513/work
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
