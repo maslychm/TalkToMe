@@ -27,7 +27,7 @@ ipykernel @ file:///D:/bld/ipykernel_1636571424791/work/dist/ipykernel-6.5.0-py3
 ipython @ file:///D:/bld/ipython_1636764882852/work
 itsdangerous==2.0.1
 jedi @ file:///D:/bld/jedi_1635824139019/work
-Jinja2==3.0.3
+Jinja2==3.1.6
 jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1633454794268/work
 jupyter-core @ file:///D:/bld/jupyter_core_1636814429283/work
 keras==3.9.0
