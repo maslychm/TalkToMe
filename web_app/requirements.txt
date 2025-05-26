@@ -21,7 +21,7 @@ google-pasta==0.2.0
 gpt-2-simple==0.8.1
 grpcio==1.53.2
 h5py==3.5.0
-idna==3.3
+idna==3.7
 importlib-metadata @ file:///D:/bld/importlib-metadata_1636431723681/work
 ipykernel @ file:///D:/bld/ipykernel_1636571424791/work/dist/ipykernel-6.5.0-py3-none-any.whl
 ipython @ file:///D:/bld/ipython_1636764882852/work
