@@ -43,7 +43,7 @@ opt-einsum==3.3.0
 parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1617148930513/work
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1636045889479/work
-protobuf==3.19.5
+protobuf==4.25.8
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1629119114968/work
