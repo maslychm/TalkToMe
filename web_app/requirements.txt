@@ -69,7 +69,7 @@ tornado @ file:///D:/bld/tornado_1635819780833/work
 tqdm==4.66.3
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1635260543454/work
 typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1632313171031/work
-urllib3==1.26.19
+urllib3==2.5.0
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
 Werkzeug==2.3.8
 wincertstore==0.2
